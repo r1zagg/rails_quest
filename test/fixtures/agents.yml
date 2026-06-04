@@ -1,0 +1,9 @@
+agent_one:
+  codename: "Alpha"
+  level: 5
+  active: true
+
+agent_two:
+  codename: "Beta"
+  level: 3
+  active: false

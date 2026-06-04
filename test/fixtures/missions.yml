@@ -1,0 +1,9 @@
+mission_one:
+  title: "Find the target"
+  status: "assigned"
+  agent: agent_one
+
+mission_two:
+  title: "Extract data"
+  status: "in_progress"
+  agent: agent_two

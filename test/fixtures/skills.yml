@@ -1,0 +1,7 @@
+stealth:
+  name: "Stealth"
+  category: "combat"
+
+hacking:
+  name: "Hacking"
+  category: "tech"
